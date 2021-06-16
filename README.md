@@ -1,6 +1,6 @@
 # Visualization
 
-## matplot
+## Matplot
 
 
-## seaborn
+## Seaborn
